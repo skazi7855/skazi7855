@@ -1,3 +1,4 @@
+![orsrc87168](https://github.com/user-attachments/assets/200a55d6-a4ec-48c2-af63-da8243c32e8a)
 - 👋 Hi, I’m @skazi7855
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,5 +7,4 @@
 
 <!---
 skazi7855/skazi7855 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can click the Preview link to take a look at your changeshu
